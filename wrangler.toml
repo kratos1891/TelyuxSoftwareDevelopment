@@ -1,6 +1,0 @@
-name = "telyux-webpage"
-compatibility_date = "2026-06-05"
-
-[assets]
-directory = "./public"
-not_found_handling = "single-page-application"
